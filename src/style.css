@@ -84,8 +84,8 @@ header .header_container{
 }
 
 .right_header img{
-    width : 27rem;
-    height : 27rem;
+    width : 45rem;
+    height : 25rem;
 }
 
 /* section part */
@@ -111,19 +111,19 @@ section .section_container{
 }
 
 .section_container .left_section{
-    width : 40% ;
+    width : 50% ;
     height : 100% ;
     display : grid;
     place-items : center;
 }
 
 .left_section img{
-    width : 27rem;
-    height : 27rem ;
+    width : 45rem;
+    height : 25rem;
 }
 
 .section_container .right_section{
-    width : 50%;
+    width : 45%;
     height : 100%;
 }
 
